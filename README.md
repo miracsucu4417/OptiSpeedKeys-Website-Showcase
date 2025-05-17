@@ -10,7 +10,7 @@ Web sitesi, kullanıcıların on parmak klavye yazma hızlarını ölçmelerine,
 
 Projeyi canlı olarak deneyimlemek ve hızınızı test etmek için aşağıdaki bağlantıya tıklayabilirsiniz:
 
-**➡️ <a href="https://www.optispeedkeys.com/tr/on-parmak-hiz-testi/" target="_blank" rel="noopener noreferrer">https://www.optispeedkeys.com/tr/on-parmak-hiz-testi</a> ⬅️**
+**➡️ <a href="https://optispeedkeys.com/tr/on-parmak-hiz-testi/" target="_blank" rel="noopener noreferrer">https://optispeedkeys.com/tr/on-parmak-hiz-testi</a> ⬅️**
 
 
 ---
